@@ -1,0 +1,30 @@
+%% code for FAIPG-D solving sparse signal recoverry
+demo_ssrd;
+
+
+
+%% code for FAIPG-Q solving sparse signal recoverry
+demo_ssrq;
+
+
+
+
+%% code for FAIPG-D solving normalized cut problem
+demo_ncutd;
+
+
+
+%% code for FAIPG-Q solving normalized cut problem
+demo_ncutq;
+
+
+
+%% code for FAIPG-D solving generized eigenvalue probem
+demo_eigd;
+
+
+
+%% code for FAIPG-Q solving sparse signal recoverty
+demo_eigq;
+
+
